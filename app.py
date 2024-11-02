@@ -57,7 +57,9 @@ elif uploaded_file and st.session_state.get('last_uploaded_file') != uploaded_fi
 # Main quiz interface
 st.title("🇨🇳 Chinese Quiz")
 
+# in app.py, modify the main flow:
 session = st.session_state.quiz_session
+
 if session.current_round:
     qid = session.current_round[0]
     question = session.bank.questions[qid]
@@ -69,3 +71,6 @@ elif session.skipped:
     show_question(question, session)
 else:
     show_round_summary(session)
+    if st.button("Start New Round →", key="new_round", use_container_width=True):
+        session.start_round()
+        st.rerun()

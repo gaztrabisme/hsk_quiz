@@ -189,20 +189,16 @@ def show_round_summary(session):
     # show stats in a more visual way
     cols = st.columns(3)
     with cols[0]:
-        st.metric("Correct Answers", session.stats['correct'])
+        st.metric("Correct Answers", session.stats.correct)
     with cols[1]:
-        st.metric("Wrong Answers", session.stats['wrong'])
+        st.metric("Wrong Answers", session.stats.wrong)
     with cols[2]:
-        st.metric("Questions Skipped", session.stats['skipped'])
+        st.metric("Questions Skipped", session.stats.skipped)
 
     # calculate accuracy
-    total_answered = session.stats['correct'] + session.stats['wrong']
-    accuracy = (session.stats['correct'] / total_answered * 100) if total_answered > 0 else 0
+    total_answered = session.stats.correct + session.stats.wrong
+    accuracy = (session.stats.correct / total_answered * 100) if total_answered > 0 else 0
 
     st.write(f"### 📊 Round Performance")
     st.write(f"Accuracy: {accuracy:.1f}%")
-    st.write(f"Best Streak: {session.best_streak} 🔥")
-
-    if st.button("Start New Round →", use_container_width=True):
-        session.start_round()
-        st.rerun()
+    st.write(f"Best Streak: {session.stats.best_streak} 🔥")
