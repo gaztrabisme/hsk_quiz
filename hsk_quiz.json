@@ -1,0 +1,2214 @@
+{
+  "questions": [
+    {
+      "id": 21,
+      "question": "Chọn trật tự đúng",
+      "type": "multiple_choice",
+      "options": {
+        "a": "你唱歌太好了。",
+        "b": "你唱歌得好了。",
+        "c": "你唱歌唱得太好了。",
+        "d": "你唱得歌太好了。"
+      },
+      "correct_answer": "c",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 22,
+      "question": "今天晚上我们__________吃饭吧。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "天天",
+        "b": "在",
+        "c": "了",
+        "d": "一起"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 23,
+      "question": "Từ 往 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "thẳng",
+        "b": "phía trước",
+        "c": "về",
+        "d": "về phía"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 24,
+      "question": "昨天，同学们_________都很高兴。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "个个",
+        "b": "件件",
+        "c": "天天",
+        "d": "口口"
+      },
+      "correct_answer": "a",
+      "category": "MEASURE_WORDS"
+    },
+    {
+      "id": 25,
+      "question": "今天__________昨天热一点儿。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "可能",
+        "b": "比",
+        "c": "不",
+        "d": "可以"
+      },
+      "correct_answer": "b",
+      "category": "COMPARISON"
+    },
+    {
+      "id": 26,
+      "question": "Từ 妻子 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "con trai",
+        "b": "con gái",
+        "c": "vợ",
+        "d": "chồng"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 27,
+      "question": "天气不好，我__________可能要下雨了。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "苹果",
+        "b": "手机",
+        "c": "明天",
+        "d": "觉得"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 28,
+      "question": "__________说今天有雨吗？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "没有",
+        "b": "没",
+        "c": "不是",
+        "d": "不"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 29,
+      "question": "明天有一个新年晚会，我想穿__________漂亮一点儿。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "得",
+        "b": "很",
+        "c": "衣服",
+        "d": "的"
+      },
+      "correct_answer": "a",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 30,
+      "question": "从这个路口__________走，就能看到医院了。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "一直",
+        "b": "离",
+        "c": "在",
+        "d": "往"
+      },
+      "correct_answer": "a",
+      "category": "DIRECTIONAL_LOCATIVE"
+    },
+    {
+      "id": 31,
+      "question": "他的家比我的家__________公司远一点儿。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "和",
+        "b": "不要",
+        "c": "没有",
+        "d": "离"
+      },
+      "correct_answer": "d",
+      "category": "DIRECTIONAL_LOCATIVE"
+    },
+    {
+      "id": 32,
+      "question": "Từ 一直 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "phía trước",
+        "b": "về",
+        "c": "thẳng",
+        "d": "về phía"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 33,
+      "question": "学校__________机场有20多公里。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "就",
+        "b": "远",
+        "c": "有",
+        "d": "离"
+      },
+      "correct_answer": "d",
+      "category": "DIRECTIONAL_LOCATIVE"
+    },
+    {
+      "id": 34,
+      "question": "这是我的第一本__________。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "工作",
+        "b": "书",
+        "c": "跳舞",
+        "d": "电脑"
+      },
+      "correct_answer": "b",
+      "category": "MEASURE_WORDS"
+    },
+    {
+      "id": 35,
+      "question": "Chọn trật tự đúng",
+      "type": "multiple_choice",
+      "options": {
+        "a": "多身体对吃水果好。",
+        "b": "多吃水果对身体好。",
+        "c": "吃水果多对身体好。",
+        "d": "多水果对吃身体好。"
+      },
+      "correct_answer": "b",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 36,
+      "question": "Từ 便宜 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "rẻ",
+        "b": "tiện nghi",
+        "c": "tiện",
+        "d": "đắt"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 37,
+      "question": "你明天__________给我打电话吧。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "好",
+        "b": "再",
+        "c": "叫",
+        "d": "很"
+      },
+      "correct_answer": "b",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 38,
+      "question": "Chọn trật tự đúng",
+      "type": "multiple_choice",
+      "options": {
+        "a": "我希望能他跟你学跳舞。",
+        "b": "我希望他能学跟你跳舞。",
+        "c": "我希望他能跟你学跳舞。",
+        "d": "我希望他能学跳舞跟你。"
+      },
+      "correct_answer": "c",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 39,
+      "question": "Từ 唱歌 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "khiêu vũ",
+        "b": "nhảy",
+        "c": "bài ca",
+        "d": "hát"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 40,
+      "question": "因为他每天跑步，_________身体很好。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "所以",
+        "b": "怎么",
+        "c": "什么",
+        "d": "所有"
+      },
+      "correct_answer": "a",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 41,
+      "question": "衣服你__________了没有？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "洗完",
+        "b": "写完",
+        "c": "跳完",
+        "d": "吃完"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 42,
+      "question": "Từ 去年 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "năm tới",
+        "b": "năm mới",
+        "c": "năm ngoái",
+        "d": "năm nay"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 43,
+      "question": "作业太多了，我还__________。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "没做完",
+        "b": "做完没有",
+        "c": "做完不",
+        "d": "不做完"
+      },
+      "correct_answer": "a",
+      "category": "ASPECT_MARKERS"
+    },
+    {
+      "id": 44,
+      "question": "外边太冷了，快请__________房间里来吧。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "远",
+        "b": "进",
+        "c": "近",
+        "d": "这"
+      },
+      "correct_answer": "b",
+      "category": "DIRECTIONAL_LOCATIVE"
+    },
+    {
+      "id": 45,
+      "question": "你认识前边__________的那两个人吗？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "便宜",
+        "b": "说话",
+        "c": "没有",
+        "d": "不比"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 46,
+      "question": "Từ 右边 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "bên trái",
+        "b": "bên phải",
+        "c": "bên trên",
+        "d": "bên dưới"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 47,
+      "question": "__________对学习汉语有帮助。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "吃西瓜",
+        "b": "看中国报纸",
+        "c": "跑步",
+        "d": "喝茶"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 48,
+      "question": "你_________游泳吗？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "很",
+        "b": "经常",
+        "c": "打",
+        "d": "太"
+      },
+      "correct_answer": "b",
+      "category": "ADVERB_PLACEMENT"
+    },
+    {
+      "id": 49,
+      "question": "你_________不高兴？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "怎么",
+        "b": "为怎么",
+        "c": "怎什",
+        "d": "什么"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 50,
+      "question": "Chọn trật tự đúng",
+      "type": "multiple_choice",
+      "options": {
+        "a": "我吃一个鸡蛋每天早上。",
+        "b": "我早上每天吃一个鸡蛋。",
+        "c": "我吃一个鸡蛋早上每天。",
+        "d": "我每天早上吃一个鸡蛋。"
+      },
+      "correct_answer": "d",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 51,
+      "question": "小王生病了，他__________我告诉你。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "是",
+        "b": "进",
+        "c": "穿",
+        "d": "让"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 52,
+      "question": "他们穿__________红色的衣服。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "在",
+        "b": "得",
+        "c": "的",
+        "d": "着"
+      },
+      "correct_answer": "d",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 53,
+      "question": "你的病__________好了，别吃药了。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "不",
+        "b": "没",
+        "c": "已经",
+        "d": "想"
+      },
+      "correct_answer": "c",
+      "category": "ASPECT_MARKERS"
+    },
+    {
+      "id": 54,
+      "question": "八点了，他__________在睡觉。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "到",
+        "b": "还",
+        "c": "都",
+        "d": "很"
+      },
+      "correct_answer": "b",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 55,
+      "question": "从八点到十二点他们都在__________。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "没有",
+        "b": "工作完",
+        "c": "工作",
+        "d": "吗"
+      },
+      "correct_answer": "c",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 56,
+      "question": "__________对身体很好。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "玩电脑",
+        "b": "哥哥",
+        "c": "别",
+        "d": "跑步"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 57,
+      "question": "Từ 希望 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "nguyện vọng",
+        "b": "kì vọng",
+        "c": "hi vọng",
+        "d": "khát vọng"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 58,
+      "question": "我们一起吃饭，__________？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "吧",
+        "b": "吗",
+        "c": "呢",
+        "d": "好吗"
+      },
+      "correct_answer": "d",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 59,
+      "question": "我想__________时间去看看大卫。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "等",
+        "b": "找",
+        "c": "就",
+        "d": "再"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 60,
+      "question": "Từ 上班 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "đi học",
+        "b": "vào lớp",
+        "c": "lên lớp",
+        "d": "đi làm"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 101,
+      "question": "绿苹果__________红苹果多。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "都",
+        "b": "比",
+        "c": "不",
+        "d": "是"
+      },
+      "correct_answer": "b",
+      "category": "COMPARISON"
+    },
+    {
+      "id": 102,
+      "question": "从这儿__________前走，就是我们学校。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "离",
+        "b": "一直",
+        "c": "往",
+        "d": "想"
+      },
+      "correct_answer": "c",
+      "category": "DIRECTIONAL_LOCATIVE"
+    },
+    {
+      "id": 103,
+      "question": "我坐飞机一个半__________就到北京了。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "分",
+        "b": "小时",
+        "c": "分钟",
+        "d": "点"
+      },
+      "correct_answer": "b",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 104,
+      "question": "A：服务员，我房间的门打不开了。B：我叫人去__________。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "看看",
+        "b": "运动运动",
+        "c": "准备准备",
+        "d": "说说"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 105,
+      "question": "Từ 帮助 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "giúp đỡ",
+        "b": "làm giúp",
+        "c": "hỗ trợ",
+        "d": "tương trợ"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 106,
+      "question": "Từ 弟弟 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "chị gái",
+        "b": "anh trai",
+        "c": "em trai",
+        "d": "em gái"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 107,
+      "question": "你看看这几__________衣服怎么样。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "件件",
+        "b": "件",
+        "c": "两件",
+        "d": "每件"
+      },
+      "correct_answer": "b",
+      "category": "MEASURE_WORDS"
+    },
+    {
+      "id": 108,
+      "question": "Chọn trật tự đúng",
+      "type": "multiple_choice",
+      "options": {
+        "a": "我手里拿着的是电影票。",
+        "b": "我拿着的是电影票手里。",
+        "c": "我手里拿的是着电影票。",
+        "d": "我手里拿的是电影票着。"
+      },
+      "correct_answer": "a",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 109,
+      "question": "别玩电脑了，明天__________要上学呢。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "还",
+        "b": "已经",
+        "c": "在",
+        "d": "不"
+      },
+      "correct_answer": "a",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 110,
+      "question": "八点上课，时间还早__________。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "吗",
+        "b": "好",
+        "c": "呢",
+        "d": "过"
+      },
+      "correct_answer": "c",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 111,
+      "question": "我__________会写我的汉语名字。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "不",
+        "b": "会",
+        "c": "很",
+        "d": "怎么"
+      },
+      "correct_answer": "a",
+      "category": "MODAL_VERBS"
+    },
+    {
+      "id": 112,
+      "question": "我__________说汉语。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "问",
+        "b": "做",
+        "c": "会",
+        "d": "去"
+      },
+      "correct_answer": "c",
+      "category": "MODAL_VERBS"
+    },
+    {
+      "id": 113,
+      "question": "我________是中国人，我是越南人。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "谁",
+        "b": "是",
+        "c": "吗",
+        "d": "不"
+      },
+      "correct_answer": "d",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 114,
+      "question": "我________是中国人，我是越南人。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "不",
+        "b": "吗",
+        "c": "是",
+        "d": "什么"
+      },
+      "correct_answer": "a",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 115,
+      "question": "我不是中国人，我是________人。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "学生",
+        "b": "越南",
+        "c": "老师",
+        "d": "中国"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 116,
+      "question": "我今年29岁。你们________？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "了",
+        "b": "吗",
+        "c": "呢",
+        "d": "哪"
+      },
+      "correct_answer": "c",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 117,
+      "question": "我会说汉语。你_________？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "呢",
+        "b": "哪儿",
+        "c": "的",
+        "d": "吗"
+      },
+      "correct_answer": "a",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 118,
+      "question": "我妈妈_________朋友会说汉语。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "呢",
+        "b": "哪儿",
+        "c": "吗",
+        "d": "的"
+      },
+      "correct_answer": "d",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 119,
+      "question": "我是美国人，我是学生，我19________。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "大",
+        "b": "口",
+        "c": "岁",
+        "d": "几"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 120,
+      "question": "我是越南人。你________？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "呢",
+        "b": "哪",
+        "c": "叫",
+        "d": "的"
+      },
+      "correct_answer": "a",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 121,
+      "question": "我朋友会说汉语，他的汉语__________好。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "会",
+        "b": "怎么",
+        "c": "不",
+        "d": "很"
+      },
+      "correct_answer": "d",
+      "category": "ADVERB_PLACEMENT"
+    },
+    {
+      "id": 122,
+      "question": "我的中国朋友家有三________人。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "几",
+        "b": "大",
+        "c": "口",
+        "d": "岁"
+      },
+      "correct_answer": "c",
+      "category": "MEASURE_WORDS"
+    },
+    {
+      "id": 123,
+      "question": "明天我__________一个中国朋友家吃饭。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "去",
+        "b": "做",
+        "c": "会",
+        "d": "问"
+      },
+      "correct_answer": "a",
+      "category": "DIRECTIONAL_LOCATIVE"
+    },
+    {
+      "id": 124,
+      "question": "明天星期__________？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "月",
+        "b": "星期",
+        "c": "几",
+        "d": "号"
+      },
+      "correct_answer": "c",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 125,
+      "question": "明天星期六，你__________什么？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "问",
+        "b": "做",
+        "c": "会",
+        "d": "去"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 126,
+      "question": "昨天是__________三。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "号",
+        "b": "星期",
+        "c": "月",
+        "d": "几"
+      },
+      "correct_answer": "b",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 127,
+      "question": "李月________中国人，她是老师。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "是",
+        "b": "名字",
+        "c": "吗",
+        "d": "不"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 128,
+      "question": "老师，这个汉字__________读？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "会",
+        "b": "不",
+        "c": "很",
+        "d": "怎么"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 129,
+      "question": "请__________，这个汉字怎么读？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "问",
+        "b": "去",
+        "c": "会",
+        "d": "做"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 130,
+      "question": "这是你女儿________？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "了",
+        "b": "呢",
+        "c": "哪",
+        "d": "吗"
+      },
+      "correct_answer": "d",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 151,
+      "question": "Sắp xếp các từ ngữ sau đây thành câu hoàn chỉnh:⾼兴 / 我 / 上午 / 今天 /  很",
+      "type": "multiple_choice",
+      "options": {
+        "a": "上午我今天很⾼兴。",
+        "b": "我今天上午很⾼兴。",
+        "c": "上午今天我很⾼兴。",
+        "d": "我上午今天很⾼兴。"
+      },
+      "correct_answer": "b",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 152,
+      "question": "Chọn câu tiếng Trung Quốc tương ứng của câu tiếng Việt sau:Tuần sau có thể xuất viện.",
+      "type": "multiple_choice",
+      "options": {
+        "a": "上个星期能出院。",
+        "b": "上个星期⼀能出院。",
+        "c": "下个星期能出院。",
+        "d": "下个星期⼀能出院。"
+      },
+      "correct_answer": "c",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 153,
+      "question": "Hãy cho biết nghĩa của từ sau:怎么样",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Vì sao",
+        "b": "Cái gì",
+        "c": "Như thế nào",
+        "d": "Làm sao"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 154,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:旁边",
+      "type": "multiple_choice",
+      "options": {
+        "a": "bên trên",
+        "b": "bên phải",
+        "c": "bên cạnh",
+        "d": "bên trái"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 155,
+      "question": "Chọn từ thích hợp điền vào chỗ trống:天⽓很冷，喝点⼉（          ）⽔吧。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "⽜奶",
+        "b": "冷",
+        "c": "药",
+        "d": "热"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 156,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:新",
+      "type": "multiple_choice",
+      "options": {
+        "a": "hoa",
+        "b": "nhất",
+        "c": "mới",
+        "d": "muốn"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 157,
+      "question": "Chọn câu hỏi hoặc câu trả lời phù hợp với câu sau:谁会说汉语？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "84个⼈。",
+        "b": "我⼥⼉。",
+        "c": "明天中午。",
+        "d": "⼀个星期。"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 158,
+      "question": "Chọn từ thích hợp điền vào chỗ trống:A：昨天的电影（          ）？B：我没去看电影，我在家看电视了。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "怎么",
+        "b": "怎么样",
+        "c": "什么",
+        "d": "哪⼉"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 159,
+      "question": "Chọn từ thích hợp điền vào chỗ trống:A：我爱吃这个菜，这个菜（          ）钱？B：⼗七块。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "⼏ ⼏",
+        "b": "多少",
+        "c": "什么",
+        "d": "怎么"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 160,
+      "question": "Hãy cho biết nghĩa của từ sau:下⾬",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Trời mưa",
+        "b": "Thời tiết",
+        "c": "Trời",
+        "d": "Không khí"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 161,
+      "question": "Chọn câu hỏi hoặc câu trả lời phù hợp với câu sau:⼀个星期。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "他们什么时候回来？",
+        "b": "你去北京学习⼏天？",
+        "c": "你们学校有多少⽼师？",
+        "d": "谁会说汉语？"
+      },
+      "correct_answer": "b",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 162,
+      "question": "Hãy cho biết nghĩa của từ sau:来",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Yêu",
+        "b": "Đi đến",
+        "c": "Đến",
+        "d": "Đi"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 163,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:红⾊",
+      "type": "multiple_choice",
+      "options": {
+        "a": "màu hồng",
+        "b": "màu đen",
+        "c": "màu sắc",
+        "d": "màu đỏ"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 164,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:报纸",
+      "type": "multiple_choice",
+      "options": {
+        "a": "đồng hồ",
+        "b": "sữa",
+        "c": "báo",
+        "d": "chồng"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 165,
+      "question": "Chọn câu tiếng Trung Quốc tương ứng của câu tiếng Việt sau:Anh ấy cần mua hai mươi mấy cái ghế dựa mới.",
+      "type": "multiple_choice",
+      "options": {
+        "a": "他新买了⼆⼗个多椅⼦。",
+        "b": "他新买了⼆⼗⼏个椅⼦。",
+        "c": "他要买⼆⼗⼏个新椅⼦。",
+        "d": "他想买⼆⼗⼏个新椅⼦。"
+      },
+      "correct_answer": "c",
+      "category": "MODAL_VERBS"
+    },
+    {
+      "id": 166,
+      "question": "Chọn từ thích hợp điền vào chỗ trống:王⽼师今年六⼗（          ）了。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "岁多",
+        "b": "岁⼏",
+        "c": "多岁",
+        "d": "六多"
+      },
+      "correct_answer": "c",
+      "category": "MEASURE_WORDS"
+    },
+    {
+      "id": 167,
+      "question": "Chọn câu hỏi hoặc câu trả lời phù hợp với câu sau:打电话。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "这是谁的杯⼦？",
+        "b": "爸爸，我的杯⼦呢？",
+        "c": "谁在打电话呢？",
+        "d": "她在家做什么呢？"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 168,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:旅游",
+      "type": "multiple_choice",
+      "options": {
+        "a": "cần muốn",
+        "b": "cảm thấy",
+        "c": "du lịch",
+        "d": "vận động"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 169,
+      "question": "Sắp xếp các từ ngữ sau đây thành câu hoàn chỉnh:这 / 我 / 买 / 是 /  的 / 桌⼦",
+      "type": "multiple_choice",
+      "options": {
+        "a": "我这是桌⼦买的。",
+        "b": "我是这桌⼦买的。",
+        "c": "这是桌⼦买的我。",
+        "d": "这是我买的桌⼦。"
+      },
+      "correct_answer": "d",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 170,
+      "question": "Chọn câu hỏi hoặc câu trả lời phù hợp với câu sau:对不起，你不喜欢狗吗？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "没关系。",
+        "b": "不客⽓。",
+        "c": "我的⼩狗的。",
+        "d": "谢谢！"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 171,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:⽣病",
+      "type": "multiple_choice",
+      "options": {
+        "a": "thức dậy",
+        "b": "chạy bộ",
+        "c": "bị ốm",
+        "d": "xuất viện"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 172,
+      "question": "Chọn từ thích hợp điền vào chỗ trống:他和他妈妈都（          ）看电视。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "⾥",
+        "b": "能",
+        "c": "喜欢",
+        "d": "多少"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 173,
+      "question": "Chọn câu tiếng Trung Quốc tương ứng của câu tiếng Việt sau:Sao bạn biết anh ấy là bạn học của tôi?",
+      "type": "multiple_choice",
+      "options": {
+        "a": "你怎么知道他是我同学？",
+        "b": "你怎么认识他是我同学？",
+        "c": "你怎么知道他是我朋友？",
+        "d": "你怎么认识他是我朋友？"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 174,
+      "question": "Hãy cho biết nghĩa của từ sau:冷",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Yêu",
+        "b": "Mưa",
+        "c": "Lạnh",
+        "d": "Nóng"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 175,
+      "question": "Hãy cho biết nghĩa của từ sau:电视",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Phim Phim",
+        "b": "Điện thoại",
+        "c": "Điện ảnh",
+        "d": "Truyền hình"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 176,
+      "question": "Chọn câu hỏi hoặc câu trả lời phù hợp với câu sau:你们学校有多少⽼师？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "⼗⼝多。",
+        "b": "五⼗个多。",
+        "c": "⼗⼝。",
+        "d": "五⼗个。"
+      },
+      "correct_answer": "d",
+      "category": "MEASURE_WORDS"
+    },
+    {
+      "id": 177,
+      "question": "Sắp xếp các từ ngữ sau đây thành câu hoàn chỉnh:买了 / 我们 / 很多⾐服 / 去商店 / 昨天",
+      "type": "multiple_choice",
+      "options": {
+        "a": "我们去商店买了很多⾐服昨天。",
+        "b": "我们去商店买了昨天很多⾐服。",
+        "c": "昨天我们去商店买了很多⾐服。",
+        "d": "我们去商店昨天买了很多⾐服。"
+      },
+      "correct_answer": "c",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 178,
+      "question": "Hãy cho biết nghĩa của từ sau:中午",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Buổi sáng",
+        "b": "Buổi tối",
+        "c": "Buổi trưa",
+        "d": "Buổi chiều"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 179,
+      "question": "Chọn câu tiếng Trung Quốc tương ứng của câu tiếng Việt sau:Tiếng Trung Quốc của anh ấy tốt nhất.",
+      "type": "multiple_choice",
+      "options": {
+        "a": "他的中国最好。",
+        "b": "他的汉字最好。",
+        "c": "他的汉语最好。",
+        "d": "他的中国很好。"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 180,
+      "question": "Hãy cho biết nghĩa của từ sau:上午",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Buổi sáng",
+        "b": "Buổi trưa",
+        "c": "Buổi tối",
+        "d": "Buổi chiều"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 181,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:房间",
+      "type": "multiple_choice",
+      "options": {
+        "a": "bên trái",
+        "b": "nhà",
+        "c": "bên cạnh",
+        "d": "phòng"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 182,
+      "question": "Hãy cho biết nghĩa của từ sau:⽔果",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Nước",
+        "b": "Quả",
+        "c": "Trái cây",
+        "d": "Nước trái cây"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 183,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:⾼",
+      "type": "multiple_choice",
+      "options": {
+        "a": "mét",
+        "b": "bận",
+        "c": "mỗi",
+        "d": "cao"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 184,
+      "question": "Hãy cho biết nghĩa của từ sau:身体",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Người",
+        "b": "Vóc dáng",
+        "c": "Sức khoẻ",
+        "d": "Thân người"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 185,
+      "question": "Chọn câu hỏi hoặc câu trả lời phù hợp với câu sau:昨天下⾬了吗？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "不会下⾬。",
+        "b": "不认识。",
+        "c": "不下了。",
+        "d": "没有。"
+      },
+      "correct_answer": "d",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 186,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:身体",
+      "type": "multiple_choice",
+      "options": {
+        "a": "ra viện",
+        "b": "bệnh",
+        "c": "sức khoẻ",
+        "d": "thuốc"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 187,
+      "question": "Sắp xếp các từ ngữ sau đây thành câu hoàn chỉnh:睡 / 觉 / 了 / 我 / 想",
+      "type": "multiple_choice",
+      "options": {
+        "a": "我了想睡觉。",
+        "b": "我想睡觉了。",
+        "c": "我想睡了觉。",
+        "d": "我想了睡觉。"
+      },
+      "correct_answer": "b",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 188,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:时间",
+      "type": "multiple_choice",
+      "options": {
+        "a": "lúc, khi",
+        "b": "nghỉ ngơi",
+        "c": "thời gian",
+        "d": "giờ"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 189,
+      "question": "Sắp xếp các từ ngữ sau đây thành câu hoàn chỉnh:在 / 电视 / 看 / 呢 / ⼉⼦",
+      "type": "multiple_choice",
+      "options": {
+        "a": "⼉⼦在看电视呢。",
+        "b": "在⼉⼦看电视呢。",
+        "c": "⼉⼦呢在看电视。",
+        "d": "⼉⼦在呢看电视。"
+      },
+      "correct_answer": "a",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 190,
+      "question": "Hãy cho biết nghĩa của từ sau:天⽓",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Không khí",
+        "b": "Khí hậu",
+        "c": "Thời tiết",
+        "d": "Trời mưa"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 231,
+      "question": "Sắp xếp các từ ngữ sau đây thành câu hoàn chỉnh:现在 / 多 / 了 / 点 / ⼗",
+      "type": "multiple_choice",
+      "options": {
+        "a": "现在⼗多点了。",
+        "b": "现在多⼗点了。",
+        "c": "现在⼗点了多。",
+        "d": "现在⼗点多了。"
+      },
+      "correct_answer": "d",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 232,
+      "question": "Hãy cho biết nghĩa của từ sau:前",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Trên",
+        "b": "Dưới",
+        "c": "Sau",
+        "d": "Trước"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 233,
+      "question": "Hãy cho biết nghĩa của từ sau:回",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Đến",
+        "b": "Về",
+        "c": "Đi",
+        "d": "Yêu"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 234,
+      "question": "Hãy cho biết nghĩa của từ sau:热",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Lạnh",
+        "b": "Yêu",
+        "c": "Nóng",
+        "d": "Mưa"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 235,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:休息",
+      "type": "multiple_choice",
+      "options": {
+        "a": "nghỉ ngơi",
+        "b": "biết",
+        "c": "chạy",
+        "d": "thời gian"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 236,
+      "question": "Hãy cho biết nghĩa của từ sau:给",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Cho",
+        "b": "Gọi",
+        "c": "Đến",
+        "d": "Thích"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 237,
+      "question": "Hãy cho biết nghĩa của từ sau:喜欢",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Yêu",
+        "b": "Vui",
+        "c": "Muốn Muốn",
+        "d": "Thích"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 238,
+      "question": "Chọn từ thích hợp điền vào chỗ trống:我妈妈喜欢吃中国（ ）。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "书",
+        "b": "茶",
+        "c": "名字",
+        "d": "菜"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 239,
+      "question": "Hãy cho biết nghĩa tiếng Việt của từ sau:为什么",
+      "type": "multiple_choice",
+      "options": {
+        "a": "tại sao",
+        "b": "như thế nào",
+        "c": "thế nào",
+        "d": "gì gì"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 240,
+      "question": "Hãy cho biết nghĩa của từ sau:分",
+      "type": "multiple_choice",
+      "options": {
+        "a": "Phút",
+        "b": "Đồng hồ",
+        "c": "Tháng",
+        "d": "Tuần"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 241,
+      "question": "__________对学习汉语有帮助。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "喝茶",
+        "b": "吃西⽠",
+        "c": "跑步",
+        "d": "看中国报纸"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 242,
+      "question": "__________对⾝体很好。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "别",
+        "b": "跑步",
+        "c": "玩电脑",
+        "d": "哥哥"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 243,
+      "question": "你的病__________好了，别吃药了。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "不",
+        "b": "已经",
+        "c": "想",
+        "d": "没"
+      },
+      "correct_answer": "b",
+      "category": "ASPECT_MARKERS"
+    },
+    {
+      "id": 244,
+      "question": "别玩电脑了，明天__________要上学呢。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "在",
+        "b": "不",
+        "c": "还",
+        "d": "已经"
+      },
+      "correct_answer": "c",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 245,
+      "question": "今天__________昨天热⼀点⼉。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "可以",
+        "b": "不",
+        "c": "⽐",
+        "d": "可能"
+      },
+      "correct_answer": "c",
+      "category": "COMPARISON"
+    },
+    {
+      "id": 246,
+      "question": "你认识前边__________的那两个⼈吗？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "便宜",
+        "b": "不⽐",
+        "c": "没有",
+        "d": "说话"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 247,
+      "question": "天⽓不好，我__________可能要下⾬了。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "明天",
+        "b": "觉得",
+        "c": "苹果",
+        "d": "⼿机"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 248,
+      "question": "绿苹果__________红苹果多。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "⽐",
+        "b": "都",
+        "c": "不",
+        "d": "是"
+      },
+      "correct_answer": "a",
+      "category": "COMPARISON"
+    },
+    {
+      "id": 249,
+      "question": "他的家⽐我的家__________公司远⼀点⼉。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "离",
+        "b": "和",
+        "c": "没有",
+        "d": "不要"
+      },
+      "correct_answer": "a",
+      "category": "COMPARISON"
+    },
+    {
+      "id": 250,
+      "question": "外边太冷了，快请__________房间⾥来吧。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "近",
+        "b": "进",
+        "c": "这",
+        "d": "远"
+      },
+      "correct_answer": "b",
+      "category": "DIRECTIONAL_LOCATIVE"
+    },
+    {
+      "id": 251,
+      "question": "⼩王⽣病了，他__________我告诉你。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "让",
+        "b": "穿",
+        "c": "进",
+        "d": "是"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 252,
+      "question": "明天有⼀个新年晚会，我想穿__________漂亮⼀点⼉。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "⾐服",
+        "b": "很",
+        "c": "的",
+        "d": "得"
+      },
+      "correct_answer": "d",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 253,
+      "question": "__________说今天有⾬吗？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "不",
+        "b": "没",
+        "c": "不是",
+        "d": "没有"
+      },
+      "correct_answer": "c",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 254,
+      "question": "从这个路⼜__________⾛，就能看到医院了。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "⼀直",
+        "b": "在",
+        "c": "往",
+        "d": "离"
+      },
+      "correct_answer": "a",
+      "category": "DIRECTIONAL_LOCATIVE"
+    },
+    {
+      "id": 255,
+      "question": "从这⼉__________前⾛，就是我们学校。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "⼀直",
+        "b": "往",
+        "c": "想",
+        "d": "离"
+      },
+      "correct_answer": "b",
+      "category": "DIRECTIONAL_LOCATIVE"
+    },
+    {
+      "id": 256,
+      "question": "他们穿__________红⾊的⾐服。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "的",
+        "b": "得",
+        "c": "着",
+        "d": "在"
+      },
+      "correct_answer": "c",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 257,
+      "question": "从⼋点到⼗⼆点他们都在__________。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "没有",
+        "b": "⼯作完",
+        "c": "吗",
+        "d": "⼯作"
+      },
+      "correct_answer": "d",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 258,
+      "question": "作业太多了，我还__________。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "做完不",
+        "b": "没做完",
+        "c": "不做完",
+        "d": "做完没有"
+      },
+      "correct_answer": "b",
+      "category": "ASPECT_MARKERS"
+    },
+    {
+      "id": 259,
+      "question": "⾐服你__________了没有？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "吃完",
+        "b": "洗完",
+        "c": "跳完",
+        "d": "写完"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 260,
+      "question": "这是我的第⼀本__________。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "书",
+        "b": "跳舞",
+        "c": "⼯作",
+        "d": "电脑"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 301,
+      "question": "Từ 妻⼦ có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "chồng",
+        "b": "con gái",
+        "c": "vợ",
+        "d": "con trai"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 302,
+      "question": "Từ 弟弟 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "em gái",
+        "b": "anh trai",
+        "c": "em trai",
+        "d": "chị gái chị gái"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 303,
+      "question": "Từ 近 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "gần",
+        "b": "xa",
+        "c": "vào",
+        "d": "ra"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 304,
+      "question": "Từ 进 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "ra",
+        "b": "vào",
+        "c": "gần",
+        "d": "xa"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 305,
+      "question": "Từ 雪 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "tuyết",
+        "b": "tuyết rơi",
+        "c": "mưa",
+        "d": "mưa rơi"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 306,
+      "question": "Chọn trật tự đúng",
+      "type": "multiple_choice",
+      "options": {
+        "a": "我⼿⾥拿着的是电影票。",
+        "b": "我拿着的是电影票⼿⾥。",
+        "c": "我⼿⾥拿的是着电影票。",
+        "d": "我⼿⾥拿的是电影票着。"
+      },
+      "correct_answer": "a",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 307,
+      "question": "Chọn trật tự đúng",
+      "type": "multiple_choice",
+      "options": {
+        "a": "你唱歌太好了。",
+        "b": "你唱歌得好了。",
+        "c": "你唱歌唱得太好了。",
+        "d": "你唱得歌太好了。"
+      },
+      "correct_answer": "c",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 308,
+      "question": "Chọn trật tự đúng",
+      "type": "multiple_choice",
+      "options": {
+        "a": "多⾝体对吃⽔果好。",
+        "b": "多吃⽔果对⾝体好。",
+        "c": "吃⽔果多对⾝体好。",
+        "d": "多⽔果对吃⾝体好。"
+      },
+      "correct_answer": "b",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 309,
+      "question": "Chọn trật tự đúng",
+      "type": "multiple_choice",
+      "options": {
+        "a": "我吃⼀个鸡蛋早上每天。",
+        "b": "我早上每天吃⼀个鸡蛋。",
+        "c": "我吃⼀个鸡蛋每天早上。",
+        "d": "我每天早上吃⼀个鸡蛋。"
+      },
+      "correct_answer": "d",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 310,
+      "question": "Chọn trật tự đúng",
+      "type": "multiple_choice",
+      "options": {
+        "a": "我希望他能跟你学跳舞。",
+        "b": "我希望他能学跟你跳舞。",
+        "c": "我希望他能学跳舞跟你。",
+        "d": "我希望能他跟你学跳舞。"
+      },
+      "correct_answer": "a",
+      "category": "WORD_ORDER"
+    },
+    {
+      "id": 331,
+      "question": "A：服务员，我房间的门打不开了。B：我叫⼈去__________。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "准备准备",
+        "b": "运动运动",
+        "c": "看看",
+        "d": "说说"
+      },
+      "correct_answer": "c",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 332,
+      "question": "你明天__________给我打电话吧。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "好",
+        "b": "叫",
+        "c": "再",
+        "d": "很"
+      },
+      "correct_answer": "c",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 333,
+      "question": "你看看这⼏__________⾐服怎么样。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "两件",
+        "b": "件件",
+        "c": "件",
+        "d": "每件"
+      },
+      "correct_answer": "c",
+      "category": "MEASURE_WORDS"
+    },
+    {
+      "id": 334,
+      "question": "我们⼀起吃饭，__________？",
+      "type": "multiple_choice",
+      "options": {
+        "a": "吧",
+        "b": "呢",
+        "c": "好吗",
+        "d": "吗"
+      },
+      "correct_answer": "c",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 335,
+      "question": "我想__________时间去看看⼤卫。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "就",
+        "b": "再",
+        "c": "等",
+        "d": "找"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 336,
+      "question": "今天晚上我们__________吃饭吧。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "在",
+        "b": "⼀起",
+        "c": "了",
+        "d": "天天"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 337,
+      "question": "⼋点上课，时间还早__________。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "过",
+        "b": "好",
+        "c": "吗",
+        "d": "呢"
+      },
+      "correct_answer": "d",
+      "category": "PARTICLE_USAGE"
+    },
+    {
+      "id": 338,
+      "question": "⼋点了，他__________在睡觉。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "都",
+        "b": "还",
+        "c": "到",
+        "d": "很"
+      },
+      "correct_answer": "b",
+      "category": "TIME_EXPRESSIONS"
+    },
+    {
+      "id": 339,
+      "question": "学校__________机场有20多公⾥。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "离",
+        "b": "就",
+        "c": "有",
+        "d": "远"
+      },
+      "correct_answer": "a",
+      "category": "DIRECTIONAL_LOCATIVE"
+    },
+    {
+      "id": 340,
+      "question": "我坐飞机⼀个半__________就到北京了。",
+      "type": "multiple_choice",
+      "options": {
+        "a": "分",
+        "b": "点",
+        "c": "分钟",
+        "d": "⼩时"
+      },
+      "correct_answer": "d",
+      "category": "MEASURE_WORDS"
+    },
+    {
+      "id": 341,
+      "question": "Từ 帮助 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "giúp đỡ",
+        "b": "làm giúp",
+        "c": "hỗ trợ",
+        "d": "tương trợ"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 342,
+      "question": "Từ ⼿机 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "đồng hồ đeo tay",
+        "b": "tay",
+        "c": "máy bay",
+        "d": "điện thoại di động"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 343,
+      "question": "Từ 正在 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "đang ở",
+        "b": "ở tại",
+        "c": "ở",
+        "d": "đang"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 344,
+      "question": "Từ 洗 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "gội",
+        "b": "giặt",
+        "c": "đừng",
+        "d": "rửa"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 345,
+      "question": "Từ 鸡蛋 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "trứng gà",
+        "b": "gà",
+        "c": "trứng",
+        "d": "trứng vịt"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 346,
+      "question": "Từ 便宜 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "rẻ",
+        "b": "tiện nghi",
+        "c": "tiện",
+        "d": "đắt"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 347,
+      "question": "Từ 去年 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "năm ngoái",
+        "b": "năm mới",
+        "c": "năm nay",
+        "d": "năm tới"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 348,
+      "question": "Từ 右边 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "bên phải",
+        "b": "bên trên",
+        "c": "bên trái",
+        "d": "bên dưới"
+      },
+      "correct_answer": "a",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 349,
+      "question": "Từ 唱歌 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "nhảy",
+        "b": "hát",
+        "c": "khiêu vũ",
+        "d": "bài ca"
+      },
+      "correct_answer": "b",
+      "category": "VOCABULARY_RECOGNITION"
+    },
+    {
+      "id": 350,
+      "question": "Từ 说话 có nghĩa là:",
+      "type": "multiple_choice",
+      "options": {
+        "a": "ca hát",
+        "b": "nói điện thoại",
+        "c": "bài hát",
+        "d": "nói chuyện"
+      },
+      "correct_answer": "d",
+      "category": "VOCABULARY_RECOGNITION"
+    }
+  ]
+}
